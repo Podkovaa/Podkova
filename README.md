@@ -26,4 +26,4 @@
 
 ---
 
-📫 **How to reach me:** [LinkedIn]: https://www.linkedin.com/in/ninhquangthanh/ | [Email]: mr.ninhquangthanh@gmail.com
+📫 **How to reach me:** LinkedIn: https://www.linkedin.com/in/ninhquangthanh/ | Email: mr.ninhquangthanh@gmail.com
