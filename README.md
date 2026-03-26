@@ -13,10 +13,17 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **AI & LLM:** Training, Fine-tuning, Prompt Engineering, Model Orchestration.
-- **Languages:** Python, SQL, TypeScript.
-- **Environment:** Docker, WSL2, Git, VS Code.
-- **Domain:** Fintech, Banking, Business Analysis.
+
+### 🎯 Core Domains
+- 🤖 **AI Application Development:** Building end-to-end AI products, from LLM Orchestration to functional RAG systems.
+- 💳 **Fintech & Digital Banking:** Specialized in payment systems, securities (bonds/warrants), and digital transformation.
+- 🐍 **Python Programming:** Expert in automation, data manipulation (Pandas/NumPy), and building scalable AI backends.
+
+### 💻 Technical Stack
+- **AI & LLM:** Training, Fine-tuning, Prompt Engineering, Model Implementation (Gemini, OpenClaw).
+- **Languages:** Python (Advanced), SQL, TypeScript.
+- **Environment:** Docker, WSL2, Git, VS Code, PyCharm.
+- **Methodology:** AI Product Management, Spec-Driven Development, Agile/Scrum.
 
 ---
 
